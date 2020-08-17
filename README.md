@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hey folks! 👋
 
 <!--
 **Amatya27/Amatya27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
