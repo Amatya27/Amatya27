@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github.com/Amatya27/Amatya27/blob/master/wallpaper.PNG?raw=true">
+:sunglasses: <h1 align='center'><i>Stay awesome!</i></h1> :sunglasses:
+<img src="https://github.com/Amatya27/Amatya27/blob/master/game.gif" width="150" height="150">
