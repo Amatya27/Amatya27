@@ -32,10 +32,10 @@
       <source media="(prefers-color-scheme: light)" srcset="assets/card-dppo-light.svg">
       <img src="assets/card-dppo-light.svg" width="330" alt="Robust DPPO on Robomimic: task success went from 40% to 81% after RL fine-tuning">
     </picture></a>
-  <a href="https://youtube.com/shorts/lxmrkH-uTj0"><picture>
+  <a href="https://github.com/Amatya27/voice-controlled-dobot"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-voice-arm-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-voice-arm-light.svg">
-      <img src="assets/card-voice-arm-light.svg" width="330" alt="Voice-controlled robot arm: spoken commands, Gemini, OpenCV, Dobot. Watch the demo.">
+      <img src="assets/card-voice-arm-light.svg" width="330" alt="Voice-controlled robot arm: spoken commands, Gemini, OpenCV, Dobot">
     </picture></a>
   <a href="https://github.com/Amatya27/ekf-sensor-fusion"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-ekf-dark.svg">
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <sub>More robot builds (maze solver, YOLO sorting arm, tic-tac-toe robot) are on my <a href="https://amatya27.github.io/">portfolio</a>.</sub>
+  <sub>More robot builds: <a href="https://github.com/Amatya27/dobot-maze-solver">maze solver</a> · <a href="https://github.com/Amatya27/dobot-yolo-sorting">YOLO sorting arm</a> · <a href="https://github.com/Amatya27/dobot-tic-tac-toe">tic-tac-toe robot</a></sub>
 </p>
 
 <h3 align="center">What I work with</h3>

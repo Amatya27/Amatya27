@@ -437,7 +437,7 @@ PROJECTS = [
     dict(slug="voice-arm", icon="wave", color="violet", kicker="Robotics + LLMs", title="Voice-Controlled Robot Arm",
          desc=["Spoken commands -> Gemini -> OpenCV block", "detection -> pick, stack and place on a Dobot."],
          metric=dict(label="\"Place the farthest blue block on the red one\""),
-         tags=["Python", "Gemini", "OpenCV", "Dobot"], cta="Watch demo"),
+         tags=["Python", "Gemini", "OpenCV", "Dobot"]),
     dict(slug="ekf", icon="radar", color="amber", kicker="State estimation", title="EKF Sensor Fusion",
          desc=["Fused wheel odometry, gyro, GPS and LiDAR", "with outlier gating for a ground robot."],
          metric=dict(label="Position error 30.24 m -> 0.30 m (100x less)", **{"from": 0.06, "to": 0.94}),
